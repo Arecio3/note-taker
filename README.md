@@ -44,4 +44,4 @@ This application allows you to write, delete, and store notes with the help of d
   [Video](https://drive.google.com/file/d/1Uav-QkLuc95RnuI73kB_uHspyAybFHiF/view)
 
   # Site
-  [Website](https://arecio3.github.io/note-taker)
+  [Website](https://note-taker-arecio3.herokuapp.com/)
